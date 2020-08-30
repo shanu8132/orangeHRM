@@ -1,0 +1,12 @@
+2020-08-30 22:27:15,455:INFO:**********Starting Test_001_Login**********
+2020-08-30 22:27:15,459:INFO:********** WebTitle Test Started ***********
+2020-08-30 22:27:15,459:INFO:***** Launching Browser *****
+2020-08-30 22:27:21,524:INFO:***** Checking the Title of the WebPage *****
+2020-08-30 22:27:21,547:INFO:***** Congrats!! Title is matching, Closing Browser *****
+2020-08-30 22:27:25,477:INFO:************ Opening OrangeHRM Application ************
+2020-08-30 22:27:31,221:INFO:***** Checking the Login Functionality *****
+2020-08-30 22:27:33,234:INFO:***** Entering UserName *****
+2020-08-30 22:27:33,554:INFO:***** Entering Password *****
+2020-08-30 22:27:33,862:INFO:***** Clicking on Login Button *****
+2020-08-30 22:27:39,376:INFO:***** Logged in Successfully *****
+2020-08-30 22:27:42,008:INFO:***** Closing Browser *****
