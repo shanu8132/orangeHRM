@@ -23,4 +23,14 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
+
+def pytest_configure(config):
+    config._metadata['Project Name'] = 'OrangeHRM'
+    config._metadata['Module'] = 'Admin'
+    config._metadata['Tester'] = 'Salim'
+
+@pytest.mark.optionalhook
+def pytest_metadata(metadata):
+    metadata.pop("JAVA.HOME",None)
+    metadata.pop("Plugins",None)
         
