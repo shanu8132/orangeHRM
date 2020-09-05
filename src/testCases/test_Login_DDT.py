@@ -6,7 +6,7 @@ from utilities.customLogger import LogGen
 from utilities.readProperties import ReadConfig
 from utilities import ExcelUtils
 
-class Test_001_Login:
+class Test_002_Login:
     
     baseURL = ReadConfig.getApplicationURL()
     logger = LogGen.loggen()

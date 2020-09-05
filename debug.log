@@ -1,0 +1,14 @@
+[0901/153532.423:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0901/153532.426:ERROR:exception_snapshot_win.cc(100)] thread ID 6396 not found in process
+[0901/153532.432:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir3288_1048092422\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0901/153532.433:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir3288_1048092422\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0901/153532.433:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir3288_1048092422\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0901/153532.433:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir3288_1048092422\Crashpad\reports\5cac889d-46a5-4a53-9643-e815a6d7ae51.dmp: The system cannot find the path specified. (0x3)
+[0901/153532.433:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0901/153532.448:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0901/153532.449:ERROR:exception_snapshot_win.cc(100)] thread ID 12504 not found in process
+[0901/153532.454:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir13000_1360708760\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0901/153532.454:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir13000_1360708760\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0901/153532.454:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir13000_1360708760\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0901/153532.454:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir13000_1360708760\Crashpad\reports\68ab0d74-ec75-46ce-be70-d725fe3f9fdd.dmp: The system cannot find the path specified. (0x3)
+[0901/153532.454:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
